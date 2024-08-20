@@ -8,8 +8,6 @@
 }
 
 .cabeçalho {
-    background-color: var(--branco);
-    .cabeçalho {
         background-color: var(--branco);
         display: flex;
         justify-content: space-between;
@@ -21,5 +19,4 @@
             display: flex;
             align-items: center;
     }
-
-}
+    }
