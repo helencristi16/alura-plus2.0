@@ -30,4 +30,11 @@
 }
 .container__botao:checked ~ .lista-menu {
     display: block;
-}
+}lista-menu_titulo, 
+.lista-menu_item {
+    padding: 1em,
+    background-color: var(--branco);
+    lista-menu__titulo {
+        color: var(--laranja);
+    }
+
